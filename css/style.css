@@ -248,25 +248,6 @@ a:hover {
   height: 100%;
 }
 
-.c-prev, .c-next {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  background-color: #161616;
-  border: none;
-  color: #fff;
-  font-size: 35px;
-  cursor: pointer;
-}
-
-.c-prev {
-  left: 1%;
-}
-
-.c-next {
-  right: 1%;
-}
-
 /* --- Sections General --- */
 section {
   padding: 60px 0;
